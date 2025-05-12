@@ -1,8 +1,8 @@
-# Email Automatizado - Aplicativo de Envio em Massa
+# Serviços Pelipper - Aplicativo de Envio em Massa
 
 ## 📌 Visão Geral
 
-O Email Automatizado é uma aplicação desktop desenvolvida em Python com Tkinter para envio automatizado de mensagens de email. Ideal para:
+O Serviços Pelipper é uma aplicação desktop desenvolvida em Python com Tkinter para envio automatizado de mensagens de email. Ideal para:
 
 Campanhas de marketing
 
